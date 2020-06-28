@@ -1,6 +1,6 @@
 {
   "name": "projectx",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An Angular Template for creating an Angular Library",
   "main": "karma.conf.js",
   "scripts": {
