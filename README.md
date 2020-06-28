@@ -1,6 +1,8 @@
 # Projectx
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
+A template of an [Angular Library and a Demo Project](https://dev.to/jwp/angular-library-folder-structure-ii-2eeh) 
+
 
 ## Development server
 
